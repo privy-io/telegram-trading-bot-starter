@@ -59,7 +59,7 @@ npm start
 
 ## Documentation
 
-For detailed documentation and guides, visit [todo.com](https://todo.com)
+For detailed documentation and guides, visit [here](https://docs.privy.io/recipes/react/telegram-trading-guide)
 
 ## Check out:
 - `index.js` for core Telegram bot operations and Privy wallet interactions
