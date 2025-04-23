@@ -1,4 +1,4 @@
-# Telegram Trading Bot Starter
+# Telegram trading bot starter
 
 A Telegram trading bot with Privy authentication, built for Solana trading using Jupiter and Raydium protocols.
 
