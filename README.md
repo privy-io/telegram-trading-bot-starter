@@ -1,6 +1,8 @@
 # Telegram trading bot starter
 
-A Telegram trading bot with Privy authentication, built for Solana trading using Jupiter and Raydium protocols.
+A Telegram trading bot with Privy authentication, built for Solana trading using Jupiter. 
+
+For a detailed guide on implementing this starter repo, visit [here](https://docs.privy.io/recipes/react/telegram-trading-guide)
 
 ## Features
 
@@ -38,6 +40,7 @@ cp .env.example .env.local
 ```env
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 PRIVY_APP_ID=your_privy_app_id
+PRIVY_APP_SECRET=your_privy_app_secret
 ```
 
 ## Database
@@ -56,10 +59,6 @@ npm start
 - `/start` - Initialize the bot
 - `/getwallet` - Check wallet balance
 - `/swap <TOKEN_ADDRESS> <AMMOUNT OF SOL>` - Swap SOL for TOKEN_ADDRESS
-
-## Documentation
-
-For detailed documentation and guides, visit [here](https://docs.privy.io/recipes/react/telegram-trading-guide)
 
 ## Check out:
 - `index.js` for core Telegram bot operations and Privy wallet interactions
