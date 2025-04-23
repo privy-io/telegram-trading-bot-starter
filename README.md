@@ -58,7 +58,7 @@ npm start
 
 - `/start` - Initialize the bot
 - `/getwallet` - Check wallet balance
-- `/swap <TOKEN_ADDRESS> <AMMOUNT OF SOL>` - Swap SOL for TOKEN_ADDRESS
+- `/swap <TOKEN_ADDRESS> <AMOUNT OF SOL>` - Swap SOL for <TOKEN_ADDRESS>
 
 ## Check out:
 - `index.js` for core Telegram bot operations and Privy wallet interactions
