@@ -62,5 +62,5 @@ npm start
 
 ## Check out:
 - `index.js` for core Telegram bot operations and Privy wallet interactions
-- `jupter.js` for Juptiter API related functions
+- `jupiter.js` for Juptiter API related functions
 - `mockDb.js` for our mocked DB code. 
