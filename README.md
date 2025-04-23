@@ -19,7 +19,7 @@ A Telegram trading bot with Privy authentication, built for Solana trading using
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/telegram-trading-bot-starter.git
+git clone https://github.com/privy-io/telegram-trading-bot-starter.git
 cd telegram-trading-bot-starter
 ```
 
